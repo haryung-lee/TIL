@@ -16,3 +16,7 @@
 - [Clean Code](clean-code/README.md)
   - [Variables](clean-code/variables.md)
   - [Functions](clean-code/functions.md)
+- [Semantic Versioning](semantic-versioning/README.md)
+  - [MAJOR, MINOR, PATCH](semantic-versioning/major-minor-patch.md)
+  - [Tilde Ranges (~)](semantic-versioning/tilde-ranges.md)
+  - [Caret Ranges (^)](semantic-versioning/caret-ranges.md)

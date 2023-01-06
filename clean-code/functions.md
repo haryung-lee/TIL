@@ -265,3 +265,5 @@ function createTempFile(name) {
   createFile(`./temp/${name}`);
 }
 ```
+
+향후 https://github.com/ryanmcdermott/clean-code-javascript#avoid-side-effects-part-1 부터
