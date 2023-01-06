@@ -13,3 +13,6 @@
   - [작업 되돌리기](git/revert-work.md)
   - [cherry pick](git/cherry-pick.md)
   - [Interactive Rebase](git/interactive-rebase.md)
+- [Clean Code](clean-code/README.md)
+  - [Variables](clean-code/variables.md)
+  - [Functions](clean-code/functions.md)
