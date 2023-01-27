@@ -1,4 +1,4 @@
-## c++에서 pair로된 값을 lower_bound 사용하기
+## c++에서 pair로된 값 lower_bound 사용하기
 
 우리가 흔히 `lower_bound`를 사용할 때는 다음과 같다.
 👉 lower_bound(x): x이상인 값 중 가장 작은 값

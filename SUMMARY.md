@@ -4,6 +4,7 @@
 - [React](react/README.md)
 - [Typescript](typescript/README.md)
   - [타입스크립트 알아보기](typescript/learn-ts.md)
+  - [enum 에러](typescript/enum-error.md)
 - [Git](git.README.md)
   - [Rebase](git/rebase.md)
   - [HEAD](git/HEAD.md)
@@ -22,4 +23,4 @@
   - [도형 그리기](d3/draw-figure.md)
 - [C++](c++/README.md)
   - [multiset](c++/multiset.md)
-  - [c++에서 pair로된 값을 lower_bound 사용하기](c++/pair-lowerbound.md)
+  - [c++에서 pair로된 값 lower_bound 사용하기](c++/pair-lowerbound.md)
