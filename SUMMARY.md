@@ -4,7 +4,7 @@
 - [React](react/README.md)
 - [Typescript](typescript/README.md)
   - [타입스크립트 알아보기](typescript/learn-ts.md)
-  - [enum 에러](typescript/enum-error.md)
+  - [Error: Computed values are not permitted in an enum with string valued members.ts](typescript/enum-error.md)
 - [Git](git.README.md)
   - [Rebase](git/rebase.md)
   - [HEAD](git/HEAD.md)
