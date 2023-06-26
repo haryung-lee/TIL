@@ -26,3 +26,5 @@
   - [c++에서 pair로된 값 lower_bound 사용하기](c++/pair-lowerbound.md)
 - [Frontend](frontend/README.md)
   - [패키지 매니저](frontend/package-manager.md)
+- [기술스택 선정](tech-stack/README.md)
+  - [axios vs ky](tech-stack/ky-vs-axios.md)
