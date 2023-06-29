@@ -29,3 +29,5 @@
   - [패키지 매니저](frontend/package-manager.md)
 - [기술스택 선정](tech-stack/README.md)
   - [axios vs ky](tech-stack/ky-vs-axios.md)
+- [트러블 슈팅](trouble-shotting/README.md)
+  - [svg 관련](trouble-shotting/svg.md)
